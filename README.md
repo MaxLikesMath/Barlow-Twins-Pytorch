@@ -66,7 +66,7 @@ for batch_idx, ((x1,x2), _) in enumerate(loader):
 That is basically it. Hopefully this is helpful!
 
 ### References:
-```
+```bibtex
 @article{zbontar2021barlow,
   title={Barlow Twins: Self-Supervised Learning via Redundancy Reduction},
   author={Zbontar, Jure and Jing, Li and Misra, Ishan and LeCun, Yann and Deny, St{\'e}phane},
